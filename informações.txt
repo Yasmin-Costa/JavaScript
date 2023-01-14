@@ -1,0 +1,39 @@
+Todos esses comando aparecem numa caixinha na parte superior do site
+
+- window.alert('') = é iteratividade para aparecer o alerta na parte superior. do site, aparece em uma caixa iterativa.
+
+- window.confirm(") :é uma mensagem que pergunta para o usuario se quer ou não alguma coisa
+
+- window.prompt(''): é como se fosse um imput, você faz uma pergunta e a pessoa escreve 
+
+Aula b 
+aula 5: variaveis e tipos primitivos:
+
+
+todos funcionam dentro do comando 'typeof'
+
+- number 
+  ..Infinity
+  ..NaN
+
+- string
+
+- boolean
+
+- null
+
+- undefined
+
+- onbject
+ ..Array
+
+- function
+
+
+
+
+
+
+
+
+
